@@ -1,7 +1,8 @@
 # Churros
 ## Ingredients
-Bread
+Flour
 Water
+Salt
 Frier
 
 ## Directions
