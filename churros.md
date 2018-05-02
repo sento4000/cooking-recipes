@@ -1,5 +1,6 @@
 # Churros
 ## Ingredients
+harina huevos azucar glas 
 
 ## Directions
 
