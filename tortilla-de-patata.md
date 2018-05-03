@@ -1,6 +1,9 @@
 # Tortilla de Patata
+
 ## Ingredients
-+* 4 eggs
+* Eggs
+* Potatos
+
 ## Directions
 
 ## Nutrition Value
