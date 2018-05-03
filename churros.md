@@ -1,8 +1,6 @@
 # Churros
 ## Ingredients
-Flour
-Water
-Salt
+harina huevos azucar glas 
 
 ## Directions
 Mix water, flour and a pinch of salt.
