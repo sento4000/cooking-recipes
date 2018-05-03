@@ -1,10 +1,13 @@
 # Churros
 ## Ingredients
+Flour
+Water
+Salt
+Frier
 Don't forget the salt!
-harina huevos azucar glas 
 
 ## Directions
-Mix water, flour and a pinch of salt.
+Make churros
 
 ## Nutrition Value
 none
